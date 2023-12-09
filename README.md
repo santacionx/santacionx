@@ -4,7 +4,7 @@ _In adversity's shadow, I'll rise unyielding. My detractors won't shape me; they
 
 ## About Me
 
-👋 Greetings! I'm Savitha, a fervent computer science engineer, an unstoppable force in the crucible of challenges. My passion lies in mastering the full spectrum of full-stack development, spanning both mobile and web realms.
+👋 Greetings! I'm Savitha, a fervent computer science engineer, an unstoppable in the crucible of challenges. My passion lies in mastering the full spectrum of full-stack development, spanning both mobile and web realms.
 
 ## Current Focus
 
