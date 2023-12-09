@@ -12,9 +12,10 @@ _In adversity's shadow, I'll rise unyielding. My detractors won't shape me; they
 
 ## Core Tenets
 
-✨ **Resilience:** Adversity fuels my growth; it's the catalyst to my evolution.
-🔥 **Unwavering Commitment:** Challenges meet unyielding dedication in my journey.
+✨ **Resilience:** Adversity fuels my growth; it's the catalyst to my evolution.  
+🔥 **Unwavering Commitment:** Challenges meet unyielding dedication in my journey.  
 💡 **Ever-Evolving:** A constant hunger for learning propels me forward.
+
 
 ## Get in Touch
 
