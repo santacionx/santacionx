@@ -22,6 +22,6 @@ _In adversity's shadow, I'll rise unyielding. My detractors won't shape me; they
 
 ## Let's Rise Above
 
-Life's storms forge the strongest souls. Let's embrace them, soar beyond their reach, and kindle inspiration in others. Remember, adversity doesn't craft our destiny; it merely fuels the fire of our ascent.
+```Life's storms shape the strongest souls. Let's embrace them, soar beyond their reach, and ignite inspiration in others. Remember, adversity doesn't craft our destiny; it merely fuels the fire of our ascent.```
 
 🌟 **Stay relentless, stay indomitable, and keep ascending!** 🌟
