@@ -1,10 +1,10 @@
-# Unyielding in Adversity: Ascend Unapologetically
+# Unstoppable in Adversity: Ascend fearlessly
 
-_In adversity's shadow, I'll rise unyielding and unapologetic. My detractors won't shape me; they'll only fuel my ascent._
+_In adversity's shadow, I'll rise unyielding. My detractors won't shape me; they'll only fuel my ascent._
 
 ## About Me
 
-👋 Greetings! I'm Savitha, a relentless warrior of computer science engineering, forging a path in the crucible of challenges. My passion lies in mastering the full spectrum of full-stack development, spanning both mobile and web realms.
+👋 Greetings! I'm Savitha, a fervent computer science engineer, an unstoppable in the crucible of challenges. My passion lies in mastering the full spectrum of full-stack development, spanning both mobile and web realms.
 
 ## Current Focus
 
